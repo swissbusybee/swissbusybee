@@ -52,7 +52,6 @@ Want to know more about me? [Check out my portfolio.](https://swissbusybee.githu
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RubyonRails-informational?style=flat&logo=RubyonRails&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgres&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -77,7 +76,7 @@ Want to know more about me? [Check out my portfolio.](https://swissbusybee.githu
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=IntelliJ&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
