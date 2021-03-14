@@ -71,8 +71,6 @@ Want to know more about me? [Check out my portfolio.](https://swissbusybee.githu
 <br>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
@@ -86,6 +84,10 @@ Want to know more about me? [Check out my portfolio.](https://swissbusybee.githu
 </details>
 
 <br>
+
+> ### Check out the tutorial created by Braydon Coyer on how to pimp you github
+>
+> [tutorial](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)!
 
 
 
