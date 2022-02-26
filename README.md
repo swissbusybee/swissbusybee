@@ -14,6 +14,12 @@ Want to know more about me? [Check out my portfolio.](https://swissbusybee.githu
 
 <br>
 
+<a href="https://github.com/swissbusybee/Color-Swatch-Generator">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=swissbusybee&repo=Color-Swatch-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 <a href="https://github.com/epalander/rails-mini-adventure-guide">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=epalander&repo=rails-mini-adventure-guide&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
